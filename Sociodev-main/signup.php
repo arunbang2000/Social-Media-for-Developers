@@ -38,7 +38,6 @@ if(isset($_POST['submit']) && $_SERVER["REQUEST_METHOD"]=="POST"){
 
 <!DOCTYPE html>
 <html >
-    <!-- Contributor : BANG ABHISHEK DEEPAK (19BCE2677) -->
     <head>
         <title>Document</title>
         <link rel="stylesheet" href="signup.css">
