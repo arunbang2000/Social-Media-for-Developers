@@ -1,4 +1,3 @@
-<!-- Bang Abhishek Deepak 19BCE2677 -->
 <?php
 $DBservername="localhost";
 $user="root";
@@ -195,7 +194,6 @@ li a:hover {
     <br>
     <br>
     <div align="center">
-       contributor Bang Abhishek Deepak(19BCE2677)
     </div>
     
             </html>
